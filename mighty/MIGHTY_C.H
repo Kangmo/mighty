@@ -1,0 +1,11 @@
+void ErrChk(int code);
+int SioHangUp(int port);
+void SioGets(int port, unsigned char *str, int no, char r_ch);
+void SioPuts(int port, unsigned char *s);
+int SioTxReady(int port);
+void SioHayes(int port, char *s);
+void c_hputch(unsigned char ch);
+void c_hputs(unsigned char *str);
+int c_hprintf(const char *format, ...);
+void c_hclrscr();
+void c_hgotoxy(int x, int y);

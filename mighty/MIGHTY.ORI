@@ -1,0 +1,586 @@
+
+
+                  --------------------------------------
+                         $$·¡Ÿq“± ´á¬á µ¡¯³¯¡µ¡.
+                  --------------------------------------
+                       ·¡¤å·¡ $$¸ó­¢¤å¼ ¸ó­¢·³“¡”a.
+
+                    ¸á¤å¸ó­¢ : $$´a‘e‘e $$´a¶©¶© $$´a·©·© $$´a¯¡¯¡ $$´a¦…¦…
+                    A    ¥I : $$A¥I
+                    ¸ñ    ® : $$¸ñ® (¸ñ)
+                    ”a¶…Ðá¶wœ· : $$¶wœ· (KB)
+                    q·e  ¯¡ˆe : $$q¯¡ (¦…)
+                    ´|·a¡ $$”á¸ñ¸ñ e ”á ·¶·a¡e A¥I´ó
+                    ·³“¡”a. µi¯±Ó¡ ÑÉ•· Ða­A¶a~
+                  --------------------------------------
+
+                    $$ ñÂ‘
+
+
+                  -------------------------------------
+                         ­¥“±(GUEST) ´á¬á µ¡­A¶a~
+                  -------------------------------------
+                     $$§¡§¡µA µ¡¯¥ˆõ·i ÑÅµwÐs“¡”a. 
+                       Ñe¸ ‰·ˆ¡ ¶…µwº—·³“¡”a.
+                      å¸á ˆa·³·i Ð º¯¡‰¡ e ”a·q
+                         ˆa·³·¥¬aŸi Ð º­A¶a~
+                  -------------------------------------
+
+                         $$ ñÂ‘ 
+$$»¡¶‘
+
+
+
+
+              ------------------------------------------
+                     a·¡Ë¡          •¡¶‘ i ‰¡Ÿa‹¡ 
+              ------------------------------------------
+                  1.   ‹¡        ¥¥     ¡w  w  ´á
+                  2.   ¸a   ža   ¯©     ¡w  w  ´á 
+                  3.   ‰A   ¯¡   Ìe     ¡w  w  ´á
+                  4.   ¸å ¸a  ¡A ·©     ¡w  w  ´á
+ 
+                  Q.   Âá   ­¡      
+              ------------------------------------------
+                     ¬åÈ‚ Ða­A¶a  --> $$»¡¶‘
+              -----------------------------------------------
+                     a·¡Ë¡       ‹¡  ¥¥  •¡  ¶‘   i
+              -----------------------------------------------
+                 ¡ww  |      ¬é             ¡w     
+              ---------|-------------------------------------
+                     H |   •¡¶‘ i ¥¡‹¡
+                     T |   É³¡A“A¡ ·¡•·
+                     P |   Ðe”e‰ ¶á· ¬á§a¡A“A¡ ·¡•· 
+                     A |   Ñe¸¡A“AµA¬á Ðe”e‰ ˆá¯iœá µ©œaˆq
+                     N |   Ñe¸¡A“AµA¬á Ðe”e‰ ”a·q·a¡ ˆq
+                     B |   ¤a¡ ¸å· ÑÁ¡e·i ¥¡µaº‘
+                     F |   ¤a¡ ”a·q ÑÁ¡e·i ¥¡µaº‘
+                     Z |   Ñe¸ ÑÁ¡e·i ”a¯¡ ¥¡µaº‘
+               GO WORD |   Ð—¬å»¡ ·¡Ÿq·¡ WORD·¥ ¡A“A¡ ·¡•·Ðq
+                   NEW |   ¸á¤å ¸ó­¢Ò ¬¡ ¬—‹¥ ¸aža ¥¡µaº‘
+                    TM |   ˆb¹· ¯¡ˆe¸÷¥¡Ÿi ¥¡µaº‘
+                    OP |   ¶…µw¸aŸi ¦Ÿq
+                    HT |   Ðe‹i ¸a•· ¥eÑÅ·i É¡‹iÐq
+                     V |   Ñ¡¯aËa ¤á¹e·i ¥¡µaº‘
+                    SI |   Ñ¡¯aËa ÄñÏAÈá· ¸÷¥¡Ÿi ¥¡µaº‘
+               MEMO ID |   ID µA‰A ¡A¡¡Ÿi q‹±
+                 PF ID |   ID · ¯¥¬w‹¡¢·i ¹¡ÒAÐq
+                     X |   Y/NŸi ¢‰´á¥¡‰¡ ¸ó­¢·i ¹·žaÐq
+                   BYE |   ‹a· ¸ó­¢·i ¹·žaÐq
+              -----------------------------------------------
+
+                         $$ ñÂ‘
+$$»¡¶‘
+           ----------------------------------------------------
+                 a·¡Ë¡       ¸a ža ¯©  •¡  ¶‘   i
+           ----------------------------------------------------
+              ¡ww  |      ¬é             ¡w
+           ----------------------------------------------------
+                 UP |   ¸ažaŸi Ñ¡¯aËa¡ ¥¡‘ (´ó¡—a)
+               DN n |   n¤å· ¸ažaŸi Ñ¡¯aËaµA¬á ¤h·q (”a¶…¡—a)
+                  I |   ¸aža ”a¶… ˆa“wœ··i ´i´a¥±  
+                  S |   ¸ažaŸi µ©Ÿ¥ ¬aœqµA‰A Íe»¡¥¡‘
+               DD n | * n¤å· ¸ažaŸi »¡¶‘ (¸a¯¥· ¸aža e ˆa“w)
+            MV WORD | * ¸ažaŸi Ð—¬å»¡¡w·¡ WORD·¥ ‰µ·a¡ ·¡•·Ðq
+                    |
+                    |   *“e ¯¡¬s‰Á ¶…µw»¥ e ¬a¶w ˆa“wÐs“¡”a.
+           ----------------------------------------------------
+
+                         $$ ñÂ‘
+$$»¡¶‘
+           ---------------------------------------------------
+                 a·¡Ë¡       ‰A ¯¡ Ìe  •¡  ¶‘   i
+           ---------------------------------------------------
+              ¡ww  |      ¬é             ¡w
+           ---------------------------------------------------
+                  W |   ‰A¯¡ÌeµA ‹i³a‹¡ 
+                 UP |   ÑÁ·©¡ ‰A¯¡¢‰·i µ©Ÿ±
+                 DN |   ÑÁ·©¡ ‰A¯¡¢‰·i ¤h·q
+                 PR |   ‰A¯¡¢‰·i ˆi¢Ÿ¡Ðq
+                  S |   ‰A¯¡¢‰·i ³e ¬aœqµA‰A Íe»¡Ÿi ³q
+                 DD | * ‰A¯¡¢‰·i »¡¶‘ (¸a¯¥· ‰A¯¡¢‰ e ˆa“w) 
+            MV WORD | * ‰A¯¡¢‰·i Ð—¬å»¡¡w·¡ WORD·¥ ‰µ·a¡ ·¡•·
+                    |
+                    |   *“e ¯¡¬s‰Á ¶…µw»¥ e ¬a¶w ˆa“wÐs“¡”a.
+           ---------------------------------------------------
+
+                         $$ ñÂ‘
+$$»¡¶‘
+           ---------------------------------------------------
+                 a·¡Ë¡      ¸å ¸a ¡A ·©  •¡ ¶‘  i
+           ---------------------------------------------------
+              ¡ww  |      ¬é             ¡w
+           ---------------------------------------------------
+                  W |    Íe»¡ ³a‹¡
+                 DD |    Íe»¡ ¬b¹A
+               TR n |    n¤å· Íe»¡Ÿi ”aŸe ¬aœqµA‰A ¥¡‘
+           ---------------------------------------------------
+                         $$ ñÂ‘
+   -- $$´a·¡($$·¡Ÿq)“±· ¯¡ˆe¸÷¥¡ --
+
+¸ó­¢ ¹·ža ¯¡ˆb :  $$´a‘e‘e $$´a¶©¶© $$´a·©·© $$´a¯¡:$$´a¦…
+·¡¤å ¸ó­¢ ¯¡ˆb :  $$·¥‘e‘e $$·¥¶©¶© $$·¥·©·© $$·¥¯¡:$$·¥¦…
+Ñe¸ q·e ¯¡ˆe :  $$q¯¡ ¦…
+Ñe¸ ¬a¶w ¯¡ˆe :  $$¬a¯¡ ¦…
+¯¡ˆe·eÐ—¸áÂ‚œ· :  $$¯¡·e ¦…
+¡ww:H,T,P,A,N,Z,GO,NCD,NEW,TM,OP,HT,V,SI,SM,PF,X,BYE>>
+>> ¡ww:H,T,P,A,N,B,F,Z,S,UP,DN,PR,DD,MV,GO,NCD,NEW,TM,OP,HT,V,SI,SM,PF,X,BYE>>
+>> ¡ww:H,T,P,A,N,B,F,Z,S,W,PR,DD,MV,GO,NCD,NEW,TM,OP,HT,V,SI,SM,PF,X,BYE>>
+>> ¶…µw¸aŸi ¦Ÿa‰¡ ·¶¯s“¡”a.
+Ñ¡¯aËa· ­¡Ÿ¡ˆa Œá¹a·¶‹¡ ˜¢…µA ¶…µw¸aŸi ¦Ÿi ® ´ô¯s“¡”a.
+·¡¹A¦Èá Ðe‹i /µw¢…·i ¸a•· ¥eÑÅÐs“¡”a.
+·¡¹A¦Èá Ðe‹i /µw¢…·i ¸a•· ¥eÑÅÐa»¡ ´g¯s“¡”a.
+$$§¡§¡µÁ ¸ó­¢·i g·a¯¡‰V¯s“¡Œa? EMPTY
+------------------------------------------------------
+            $$´a·¡($$·¡Ÿq)“± ´e‘wÓ¡ ˆa­A¶a..
+------------------------------------------------------
+µ¡“i ¸ó­¢ ¯¡ˆb : $$·¥‘e‘e $$·¥¶©¶© $$·¥·©·© $$·¥¯¡¯¡ $$·¥¦…¦…
+¸ó­¢ ¹·ža ¯¡ˆb : $$´a‘e‘e $$´a¶©¶© $$´a·©·© $$´a¯¡¯¡ $$´a¦…¦…
+µ¡“i ¬a¶w ¯¡ˆe : $$¬a¯¡ (¦…)
+q  ·e  ¯¡  ˆe : $$q¯¡ (¦…)
+Ñe  ¸  A  ¥I : $$A¥I
+Ñe  ¸  ¸ñ  ® : $$¸ñ® (¸ñ)
+Ñe¸”a¶…Ðá¶wœ· : $$¶wœ· (KB)
+A¥I´ó¶áÐe¸ñ® : $$”á¸ñ (¸ñ)
+------------------------------------------------------
+     $$§¡§¡“e  a·¡Ë¡ ver 1.0 beta1.5¡ ¶…µwÐs“¡”a.
+------------------------------------------------------
+¬¡¶… Ñ¡¯aËa  a·¡Ë¡ ver 1.0 beta1.5  (c) REFINED SOFT
+·¡ ¡A“A“e §¡‰·ˆ¡ ¶…µwÐa‰¡ ·¶¯s“¡”a. ´qÑ¡Ÿi ·³bÐ º­A¶a.
+·¡ ¡A“AŸi ·¡¶wÐa‹¡µA $$·¡Ÿq“±· A¥I·¡ ¡¡¸aœs“¡”a.
+Ï©¶a A¥I : $$Ï©A     $$´a·¡“± A¥I: $$A¥I
+´|·a¡ $$”á¸ñ¸ñ e ·¶·a¡e A¥I´ó·i Ði ® ·¶Š…¶a
+­¥“±A¬á“e A¥I·¡ x´a¬á ·¡ ¡A“AŸi ¬a¶wÐi ® ´ô¯s“¡”a.
+ å¸á ˆa·³·i Ð º­A¶a.
+¤å Ñ¡   ´a·¡—¡     ·¡Ÿq   ¸b¬÷·© ¹¡ÒA/½¢       ¹A                       ¡¢      
+¡ww:¸á¸w(S) Âá­¡(Q) ¥¡‹¡(V) ®¸÷(E) ¬s·³(I) ¬b¹A(D) ‰­¢(C) >>
+¡ww·³b>> 
+
+ a·¡Ë¡  ¸w  µA—¡Èá (1000º‰ ˆa“w) - {¯¡a¡e Àõ¤å¼‹i¸aŸi .¡ ³a¯¡‰¡ µEÈáŸi!
+º‰    ® 1...5....10...15...20...25...30...35...40...45...50...55...60...65...70¹A¡¢·³b 0........1.........2.........3......|
+¹A    ¡¢:
+‹i³a‹¡Ÿi Âá­¡Ða¯¡‰V¯s“¡Œa? ¡A¡¡Ÿ¡ˆa ¦¹¢Ðaµa ”á·¡¬w º‰·i ÂˆaÐi® ´ô¯s“¡”a
+[2J$$¹A¡¢  ($$Ñe¸ / $$¸åÁA)    ”q”w¸a : $$”q”w
+[2J‰A¯¡Ìe($$¹A¡¢)µA ‹i³a‹¡      ”q”w¸a : $$”q”w
+¸b¬÷–E ‰A¯¡¢‰·¡ ´ô¯s“¡”a
+¸á¸w–A´ö¯s“¡”a
+
+¥¥¢…·i ¸b¬÷Ða»¡ ´g·a¡e ¸á¸wÐi® ´ó¯s“¡”a
+Âá­¡–A´ö¯s“¡”a
+
+ÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍ”á·¡¬w ¸ažaˆa ´ô¯s“¡”a.
+µa‹¡ˆa ˆa¸w Àá·q ¦¦…·³“¡”a.
+Ñe¸ Ñ¡¯aËaµA q·e ¡A¡¡Ÿ¡“e $$q¡A (BYTES) ·³“¡”a.
+$$»¡¶‘ a·¡Ë¡ Ñ¡¯aËa VER 1.0 beta1.5 (c)Refined Software. ¹A¸b¸a : ‹±ˆw¡¡
+
+ÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍ
+¶…µw¸aˆa •¡¯a®É·i ¬a¶wÐa‰¡ ·¶¯s“¡”a.
+¸q¯¡ Ñ¡¯aËaˆa  ñÂ´á ·¶·i ˆõ·³“¡”a.
+¸ó­¢·i g»¡  a¯¡‰¡ ¸q¯¡ ‹¡”aŸ¡¯¡‹¡ 
+¤aœs“¡”a.
+ÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍ
+[s[15C[7m  ¬a¶w ˆa“wÐe ¯¡ˆe·¡ ´|·a¡ $$q¯¡¦… q´v¯s“¡”a    [27m[u
+¬a¶w ˆa“wÐe ¯¡ˆe·i ¡¡– ³a­v¯s“¡”a.
+ÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍ
+      ”     ÑÁ     ¯©         •¡     ¶‘      i
+ÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍ
+  /H           »¡‹q ·¡ •¡¶‘ i·i ¥¡µaº…”a.
+  /NICK ”e´á   ”ÑÁº— ¸a¯¥· ¥i¡w·i "”e´á"¡ ¤aŽ…”a.
+  /Q           ”ÑÁŸi  aÃ¥”a.
+ÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍ
+ÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍ
+          a·¡Ë¡   Ñ¡¯aËa   ”ÑÁ¯©
+ÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍ
+      ¶…µw¸aµÁ »iˆá¶… ”ÑÁŸi a’­A¶a.
+      aˆa¯©˜“e /qŸi ’Ÿa¯¡¡e –S“¡”a.
+ÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍ
+[2J   [  a·¡Ë¡ µ¥œa·¥ µA—¡Èá : ®¸÷ ]            Ñe¸ ÍA·¡»¡ : 
+[2J   [  a·¡Ë¡ µ¥œa·¥ µA—¡Èá : ¬s·³ ]            Ñe¸ ÍA·¡»¡ : 
+[2J   [  a·¡Ë¡ µ¥œa·¥ µA—¡Èá : ¬b¹A ]            Ñe¸ ÍA·¡»¡ : 
+         Äá¬á·¡•· : [¶á][´aœ] ÑÁ¬iÎaÇ¡     º‰¬åÈ‚ : ENTER
+         ·¡´¡‹¡ 6.x¬a¶w¸a“e NUM LOCKÇ¡Ÿi ’‰œá º­A¶a(ON).
+
+
+¬¡ ”ÁAÐi ¶w·i ·³bÐa­A¶a (Âá­¡ : µEÈá)
+
+¬åÈ‚Ðe º‰· ´|µA ¬s·³Ði ¶w·i ·³bÐa­A¶a (Âá­¡ : µEÈá)
+
+¬åÈ‚Ða¯¥ º‰·i ¬b¹AÐa¯¡‰V¯s“¡Œa(Âá­¡ : µEÈá)?¬åÈ‚Ða¯¥ ¸ažaŸi ®¸÷Ði ® ´ô¯s“¡”a.
+¶w·i ·ª´ö¯s“¡”a.
+¤å·i ¬åÈ‚Ða­v¯s“¡”a.
+¸÷ i¡ »¡¶¯¡‰V¯s“¡Œa?¤å·e ´ô“e ¤åÑ¡·³“¡”a.
+¬a¶w¤ó(DD) : DD ¤åÑ¡1,...,¤åÑ¡10    DD ¤åÑ¡1-¤åÑ¡10    ","µÁ"-"· ¹¡Ðs•¡ ˆa“w
+¤å·i »¡¶¶¯s“¡”a.
+Ñe¸ ¥¡‰¡ ·¶“e ¸ažaŸi »¡¶““¡”a.
+¥i¡w·e Ðe‹i 5¸a, µw¢… 10¸aˆa ÂA” ·³“¡”a.
+¤å Ñ¡   ´a·¡—¡     ÑÁ·©·¡Ÿq    Ça‹¡ ¸å­·/¹¡ÒA      ¹A                  ¡¢       
+[2J¸aža¯©($$¹A¡¢)µA ´ó¡—a Ða‹¡      ”q”w¸a : $$”q”w
+
+¹A¡¢·³b 0........1.........2.........3.|
+¹A    ¡¢:
+ÑÁ·©·¡Ÿq·³b 0........1.|
+ÑÁ ·©  ·¡ Ÿq:A¥I·¡ $$A¥I¡ ¯w‰b–A´ö¯s“¡”a.
+$$ ñÂ‘
+ÑÁ·© ´ó¡—aˆa ¬÷‰·¸â·a¡ {v¯s“¡”a.
+ÑÁ·© ”a¶…¡—aˆa ¬÷‰·¸â·a¡ {v¯s“¡”a.
+ÑÁ·©·¡ ´ô´á¬á Ñ¡¯aËa· Ïa¡É¡Å© ¯©Ð—Ñw¯¢·¡ Ëia¬á ¡A¡¡Ÿ¡ˆa ¦¹¢Ðaµa ÑÁ·©¸å­··i ¯©ÌÐaµv¯s“¡”a.
+Ïa¡É©Å©·i ¯©Ð—Ða­A¶a
+
+Ïa¡É¡Å©·i ¬åÈ‚ Ða­A¶a [Âá­¡:P] ´ó¡—aÐe ÑÁ·©·¡ ¹¥¸Ða»¡ ´g¯s“¡”a.
+¡Äé¸ó­¢¯¡µA“e ”a¶…¡—aŸi Ði ® ´ô¯s“¡”a.
+  [ RDN ¡ww ] - Register DowNload file.  
+  ”a¶… ¤h‰¡¸a Ða“e ÑÁ·©·i £¡Ÿ¡ µ´¢ ÐeÒ aº—µA RDN¸aža¯©µA¬á ”a¶…¡—a Ðs“¡”a.
+  ¬a¶w¤ó(RDN) : RDN ¤åÑ¡1,...,¤åÑ¡10    RDN ¤åÑ¡1-¤åÑ¡10    ","µÁ"-"· ¹¡Ðs ˆa“w
+·¡£¡ RDN¸aža¯©µA —w¢–E ¸aža·³“¡”a.
+RDN¸aža¯©µA —w¢Ða¯¡‰V¯s“¡Œa? ¬a¶w¤ó(DN) : DN ¤åÑ¡1,...,¤åÑ¡10   DN ¤åÑ¡1-¤åÑ¡   ","µÁ"-"· ¹¡Ðs ˆa“w
+¤å·i RDN¸aža¯©µA —w¢Ðaµv¯s“¡”a.
+Ñe¸ ¥¡‰¡‰¯¥ ¸ažaŸi RDN¸aža¯©µA —w¢Ða¯¡‰V¯s“¡Œa? ¤å·i ¤h‹¡µA“e ”a¶… Ðá¶wœ··¡ ¦¹¢Ðs“¡”a.
+¬÷‰·¸â·a¡ ”a¶…¡—aŸi  aÁv¯s“¡”a.
+”a¶…¡—aˆa ¯©ÌÐ–¯s“¡”a.
+¤å·i ·ª´ö¯s“¡”a.
+$$´a·¡($$·¡Ÿq)“±· ˆa·³¯¥À÷·¡ µÅža–A´ö¯s“¡”a.
+$$ ñÂ‘[2J Íe»¡ ³a‹¡  
+
+¹A¡¢·³b 0........1.........2.........3.....|
+¹A    ¡¢:®¯¥(ÂA”50¡w) : ¤å Ñ¡   ´a·¡—¡     ·¡Ÿq  ¤i­·    Ça‹¡ ÑwÈ     ¹A                          ¡¢   
+¡ww:H,T,P,A,N,B,F,Z,W,DD,TR,GO,NEW,TM,OP,HT,V,SI,MEMO,PF,X,BYE>>
+>> ¤å·i »¡¶‰ Š¥Ðe·¡ ´ô¯s“¡”a.
+•¡ÀbÐe Íe»¡ˆa ´ô¯s“¡”a.
+—w¢–E ¸ažaˆa ´ô¯s“¡”a.
+$$ ñÂ‘¤å·e ·¡£¡ ¬b¹A–E Íe»¡·³“¡”a
+¤å Íe»¡Ÿi ¬b¹AÐaµv¯s“¡”a.
+¤å Íe»¡“e Ñ¡¯aËa· ¡A¡¡Ÿ¡ ¦¹¢·a¡ ·¥Ð ¬b¹AÐa»¡ ¡µÐaµv¯s“¡”a.
+¸å¸a ¶Íe ¸÷¥¡Ÿi ˆñ¬‚Ðs“¡”a.
+•¡ÀbÐe Íe»¡ˆa ´ô¯s“¡”a.
+º£¥—w¢¤åÑ¡ˆa ¸i¡µ–A´ö¯s“¡”a.
+[2J           [ ¬a¶w¸a ˆñ¬‚ ]
+
+          <1>  ·¡Ÿq·a¡ ¬a¶w¸a ˆñ¬‚
+          <2>  ´a·¡—¡¡ ¬a¶w¸a ˆñ¬‚
+          <3>  A¥I ®…¶áÎa Â‰b
+          <4>  ¸ñ® ®…¶áÎa Â‰b
+          <5>  ¸ó­¢® ®…¶áÎa Â‰b
+          <6>  ”a¶…ˆa“wœ· ®…¶áÎa Â‰b
+          <7>  ¸aža¯© ÑÉ•· ®…¶áÎa Â‰b
+          <8>  ‰A¯¡Ìe ÑÉ•· ®…¶áÎa Â‰b
+  
+          <P>  ¨a¹aaˆq
+
+          ¶¥Ða“e ¤åÑ¡Ÿi ·³bÐa­A¶a : ˆñ¬‚Ði ÒA¶¥ ·¡Ÿq·i ·³bÐa­A¶a
+·¡Ÿq :      ·¡Ÿq   ´a·¡—¡   ¬—·© ˆa·³·© ÂA‹e¸ó­¢ A¥I     »¢      ¸w
+[ ‰­¢ - ENTER   ‹a e - P ] Àx“e ¬a¶w¸aˆa ´ô¯s“¡”a. 
+ˆñ¬‚·¡ {v¯s“¡”a.
+ˆñ¬‚Ði ÒA¶¥ ´a·¡—¡Ÿi ·³bÐa­A¶a
+´a·¡—¡ :    ´a·¡—¡     ·¡Ÿq   ¬—·© ˆa·³·© ÂA‹e¸ó­¢ A¥I     »¢      ¸w
+¤åÑ¡     ·¡Ÿq   ´a·¡—¡ ÂA‹e¸ó­¢ ¸ó­¢® A¥I ¸ñ® ”a¶…ˆa“w ¸aža¯© ‰A¯¡Ìe ¯¡ˆe·eÐ—
+[2J                       [ ¯¡ˆe ·eÐ— ]
+
+          ¬a¶w¯¡ˆe : $$¬a¯¡(¦…)   q·e¯¡ˆe : $$q¯¡(¦…)
+          ¯¡ˆe·eÐ— ¸áÂ‚œ· : $$¯¡·e(¦…)
+
+          <1>  ¯¡ˆe·eÐ—·a¡¦Èá ¯¡ˆe·i Àx·q
+          <2>  ¯¡ˆe·eÐ—µA ¯¡ˆe·i ¸á¸wÐq
+          <3>  ¯¡ˆe·eÐ—µA q·e¯¡ˆe·i ¡¡– ¸á¸wÒ ¸ó­¢ ¹·ža
+
+          <P>  ¨a¹aaˆq
+
+          ¶¥Ða“e ¤åÑ¡Ÿi ·³bÐa­A¶a : ¯¡ˆe·eÐ—µA¬á ¡y¦…· ¯¡ˆe·i Àx‰V¯s“¡Œa? ¯¡ˆe·i Àx´v¯s“¡”a.
+¯¡ˆe·eÐ—µA q·e ¯¡ˆe·¡ á¢ ¸â¯s“¡”a.
+¯¡ˆe·eÐ—µA ¡y¦…· ¯¡ˆe·i ¸á¸wÐa¯¡‰V¯s“¡Œa? ¯¡ˆe·i ¸á¸wÐaµv¯s“¡”a.
+¸á¸wÐi ® ·¶“e ¯¡ˆe·¡ á¢ ¸â¯s“¡”a.
+¯¡ˆe·eÐ—µA q·e ¯¡ˆe·i ¡¡– ¸á¸wÐa‰¡ ¸ó­¢·i {¯¡‰V¯s“¡Œa? q·e ¯¡ˆe·i ¡¡– ¸á¸wÐaµv¯s“¡”a.
+¶…µw¸a ¡A“A ´qÑ¡Ÿi ·³b Ða­A¶a : [2J              [  ¶…µw¸a ¡A“A  ]
+
+          <1>  ÒA¶¥ •A·¡Èá ˆñ¬‚, ®¸÷
+          <2>  ÒA¶¥ •A·¡Èá Ÿ¡·¥•B¯·
+          <3>  ÒA¶¥ •A·¡Èá ¤‚´ó Ð–‹¡
+          <4>  ÒA¶¥ •A·¡Èá ¥¢Š Ða‹¡
+          <5>  ÒA¶¥ •A·¡Èá USERDATA.TXTµA Â‰b
+          
+          <6>  Ñe¸ ¡A“A •A·¡Èá Ÿ¡·¥•B¯·
+          <7>  ¡¡—e ¡A“A •A·¡Èá Ÿ¡·¥•B¯·
+          <8>  ¡¡—e ¡A“A •A·¡Èá ¤‚´ó Ð–‹¡
+          <9>  ¡¡—e ¡A“A •A·¡Èá ¥¢Š Ða‹¡
+
+          <10> Ÿ¡¡¡Ëa •¡¯a®É(RDS)
+          
+          <P>  ¨a¹aaˆq
+
+          ¶¥Ða“e ¤åÑ¡Ÿi ·³bÐa­A¶a : [2J           [ ÒA¶¥ •A·¡Èá ˆñ¬‚, ®¸÷ ]
+         
+          <1>  ÒA¶¥ ¤åÑ¡¡ ˆñ¬‚
+          <2>  ÒA¶¥ ·¡Ÿq·a¡ ˆñ¬‚
+          <3>  ÒA¶¥ ´a·¡—¡¡ ˆñ¬‚
+
+          <P>  ¨a¹aaˆq
+    
+          ¶¥Ða“e ¤åÑ¡Ÿi ·³bÐa­A¶a : ˆñ¬‚Ði ÒA¶¥ ¤åÑ¡Ÿi ·³bÐa­A¶a
+¤åÑ¡ : 1.¬a¶wº—»¡  2.§¡ÒA¶¥  3.ÒA¶¥3  4.ÒA¶¥2  5.ÒA¶¥1  6.¸÷ÒA¶¥  7.¦¶…µw¸a  8.¶…µw¸a
+[Âá­¡ : P] ¶¥Ða“e ÒA¶¥—w‹s·i ·³bÐa­A¶a : ¶…µw¸a ¡A“A ´qÑ¡ˆa Ëiv¯s“¡”a
+$$ ñÂ‘ÒA¶¥ •A·¡Èá Ÿ¡·¥ÉB¯aŸi ¯¡¸bÐs“¡”a.
+ÒA¶¥ •A·¡Èá ¤‚´ó·i ¯¡¸bÐs“¡”a.
+¤‚´óÑÁ·©·¡ ¹¥¸Ða»¡ ´g¯s“¡”a.
+$$ ñÂ‘ÒA¶¥ •A·¡ÈáŸi ¤‚´ó Ðaµv¯s“¡”a.
+$$ ñÂ‘ÒA¶¥ •A·¡ÈáŸi ¥¢Š Ðaµv¯s“¡”a.
+$$ ñÂ‘ÒA¶¥•A·¡Èá ¥¢ŠŸi ¯¡¸bÐs“¡”a.
+Ñe¸ ¡A“A“e Ÿ¡·¥•B¯aˆa ¦‰Ï©¶aÐe ¡A“A ·³“¡”a.
+$$ ñÂ‘¡¡—e ¡A“A µwµb· Ÿ¡·¥•B¯aŸi Ða¯¡‰V¯s“¡Œa? ¡A“A·¥•B¯aˆa {v¯s“¡”a.
+$$ ñÂ‘[  a·¡Ë¡ Ñ¡¯aËa Ÿ¡¡¡Ëa •¡¯a®É ]      {‹¡ :  EXIT
+ˆe”eÐe •¡¯a¡ww( DIR, COPY, DEL, FORMAT—w)‰Á ÉB¯aËa 
+¬wµA¬á ¯©Ð—–A“e ˆe”eÐe Ïa¡‹aœ‘·i ¯©Ð—Ði ® ·¶¯s“¡”a.
+
+[º·]
+‹aœÏ¢¡¡—aŸi ¬a¶wÐa“e Ïa¡‹aœ‘(NCD—w—w)·¡a ·³b·i ¤h
+“e Ïa¡‹aœ‘(M—w—w)·i ¬a¶wÐa¡e Ñ¡¯aËaˆa ”a¶…–S“¡”a.
+¤Ã¡ÑÁ·©·e ¯©Ð—¯¡ ”a¶…–A»¡“e ´g»¡ e ÑÁ¡e·¡ Œ»¡£a¡
+¢ Ï©¶aÐe˜µA e ³a¯¡‹¡ ¤aœs“¡”a.
+
+¯©Ð—Ða¡e 100% ”a¶…–A“e Ïa¡‹aœ‘·³“¡”a.
+‹i·i Íe»³Ði Š¥Ðe·¡ ´ô¯s“¡”a.
+‰·»¡¬aÐw·e ¶…µw¸a e ¸b¬÷Ði ® ·¶¯s“¡”a.
+Ô ‰·»¡¬aÐw Ô‘   Ô¯  T - Á¡‹¡¡A“A    P - ¸å”e‰    R - Íe»¡ ·ª‹¡  Ô®
+>>  ¤åÑ¡   ´a·¡—¡ ¶©/·© ¹¡ÒA        ¹A                                      ¡¢     
+‰·»¡¬aÐw³a‹¡
+¹A¡¢·³b 0........1.........2.........3.........4.........5..|
+¹A    ¡¢:‰·»¡¬aÐw·¡ ´ô¯s“¡”a.
+¡A“A •A·¡ÈáŸi ¤‚´óÐa¡e ¸á¤åµA ¤‚´óÐe ¶w·¡ »¡¶¡»³“¡”a.
+[!] ¡A“A •A·¡Èá ¤‚´ó·i ¯©¯¡Ða¯¡‰V¯s“¡Œa? ¡A“A •A·¡ÈáŸi ¥¢ŠÐa¡e Ñe¸ ¡A“A—i·¡ ÂA‹eµA ¤‚´óÐe ¶w·a¡ •©´aˆs“¡”a.
+[!] ¡A“A•A·¡Èá ¥¢ŠŸi ¯©¯¡Ða¯¡‰V¯s“¡Œa? 
+¡A“A•A·¡Èá· ¤‚´ó·i ¯¡¸bÐs“¡”a. ¯¡ˆe·¡ ˆéŸ¡“¡ ¸q¯¡ ‹¡”aŸ¡¯³¯¡µ¡.
+¡A“A•A·¡Èá· ¥¢ŠŸi ¯¡¸bÐs“¡”a. ¯¡ˆe·¡ ˆéŸ¡“¡ ¸q¯¡ ‹¡”aŸ¡¯³¯¡µ¡.
+¡A“A •A·¡Èá· ¤‚´ó·¡ ¯©ÌÐaµv¯s“¡”a.
+$$ ñÂ‘¡A“A •A·¡ÈáŸi ¤‚´óÐaµv¯s“¡”a.
+$$ ñÂ‘¡A“A •A·¡Èá· ¥¢Šˆa ¯©ÌÐaµv¯s“¡”a.
+$$ ñÂ‘¡A“A •A·¡ÈáŸi ¥¢ŠÐaµv¯s“¡”a.
+$$ ñÂ‘¡A“A •A·¡ÈáŸi ¤‚´óÐe ÑÁ·©·¡ ´ô¯s“¡”a.
+$$ ñÂ‘                       $$¹A¡¢ [ $$Ð—¬å»¡ ]
+¶…µw¸aˆa ”ÑÁ¯©µA¬á $$´a·¡“±·i Á¡À÷Ða‰¡ ·¶¯s“¡”a.
+Á¡À÷µA ·wÐa‰V¯s“¡Œa? ¶…µw¸aˆa ¸aŸ¡µA ´ô·a£a¡ ¶…µw¸aŸi ¦Ÿi ® ´ô¯s“¡”a.
+º—¶aÐe ·©·¡œa¡e ¶…µw¸aµA‰A Íe»¡Ÿi ¥¡¯¡‹¡ ¤aœs“¡”a.
+$$§¡§¡“e Ñe¸ §¡‰·ˆ¡ ¶…µwº—·³“¡”a.
+$$§¡§¡“e ”á·¡¬w ­¥“±·i ¤h»¡ ´g¯s“¡”a.
+¸ó­¢·i g‰V¯s“¡”a. 
+$$§¡§¡“e Ñe¸ ¤e‰·ˆ¡ ¶…µwº—·³“¡”a.
+ˆa·³¯¥À÷·i Ða¯¡¡e ÂÒ ¶…µw¸aˆa ˆa·³µa¦
+Ÿi ‰i¸÷Ðs“¡”a. $$§¡§¡µA ˆa·³Ða¯¡‰V¯s“¡Œa? 
+ˆa·³¯¥À÷·i Ða»¡ ´g´v·a£a¡ ¸ó­¢·i g‰V¯s“¡”a.
+ˆa·³¯¥À÷·¡ {v¯s“¡”a. 24¯¡ˆeÒ ”a¯¡ ¸ó­¢ Ða­A¶a
+”w¯¥·e Ñe¸ ¬a¶wº—»¡ ”¬w¸a·³“¡”a.
+¸ó­¢·i g¯s“¡”a.
+
+Ô°Ô°Ô°Ô°Ô±Ô±Ô±Ô±Ô±Ô²Ô²Ô²¶…µw¸a  ´ô·qÔ²Ô²Ô²Ô±Ô±Ô±Ô±Ô±Ô°Ô°Ô°Ô°
+             ¶…µw¸aˆa ¸aŸ¡µA ´ô´á¬á ÀË··i Ði ® ´ô¯s“¡”a.
+  º—¶aÐe ¬aÐw·¡œa¡e ¶…µw¸aµA‰A Íe»¡Ÿi ¥¡¯¡‹¡ ¤aœs“¡”a.
+ÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍ
+                    $$ ñÂ‘¶…µw¸aµÁ ÀË··i ¯¡•¡Ðs“¡”a. ¶…µw¸aŸi ¦Ÿa‰V¯s“¡”a.
+¸aža¸å­··i ¶áÐe ¯¡ˆe·¡ ¦¹¢Ðs“¡”a.
+       ¸aža ¸å­··i Âá­¡Ðs“¡”a. 
+$$ ñÂ‘µ¡“i Àõ¤å¼ ¸ó­¢·³“¡”a.
+$$´a·¡“±A $$Â¯¡¦…· ¯¡ˆe·¡ ¬¡ º´á»³“¡”a.
+$$§¡§¡¶…µw Á·¸ó­¢® : $$Á·¸ó(ÒA)
+$$»¡¶‘
+
+                    
+    [ ­¥“± ¡A“A ]                      [ ¶…µw¸a ¡A“A ]
+   
+    1 . ˆa·³ ¯¥À÷                      10. ˆa·³ ¯¥À÷¸a ´a·¡—¡ Â‰b
+    2 . ˆa·³ ÑÂ·¥                      11. •·Ñ¡ÒA ÒA¶¥ ˆa·³ ÀáŸ¡
+                                       12. •·Ñ¡ÒA ÒA¶¥ ˆa·³ ˆá¦ ÀáŸ¡
+                                       13. •·Ñ¡ÒA ÒA¶¥ ¬b¹A
+    [ ÒA¶¥ ¡A“A ]
+                                       14. •·Ñ¡ÒA ÒA¶¥ —w‹s ¬é¸÷
+    3 . •·Ñ¡ÒA ÈiÊA
+    4 . ˆa·³¸a ´a·¡—¡ Â‰b             15. ˆa·³¯¥À÷¸a ¡¡– ÒA¶¥ ˆa·³ ÀáŸ¡
+                                       16. ˆa·³¸a ¡¡– ÒA¶¥—w‹s ¬é¸÷
+
+     
+ÒA¶¥—w‹s·i ¬é¸÷Ði ´a·¡—¡Ÿi ·³bÐa­A¶a. (ÂA” 10ˆ)
+·³b : $$·¡Ÿq($$´a·¡)“±·e ·¡£¡ ˆa·³¯¥À÷ –A´á ·¶¯s“¡”a.
+$$ ñÂ‘$$·¡Ÿq($$´a·¡)“±·e ˆa·³–A´á ·¶¯s“¡”a. 
+$$ ñÂ‘$$·¡Ÿq($$´a·¡)“±· ˆa·³·e ˆá¦–A´ö¯s“¡”a. 
+$$ ñÂ‘ˆa·³ ¯¥À÷Ðaµv¯s“¡”a. ˆa·³µa¦“e ÂÒ ¶…µw¸aˆa ‰i¸÷Ðs“¡”a. 
+$$ ñÂ‘$$·¡Ÿq($$´a·¡)“±·e ´a»¢ ˆa·³–A´á ·¶»¡ ´g¯s“¡”a. 
+$$ ñÂ‘¸÷ i¡ ·¡ •·Ñ¡ÒA· ˆa·³·i Ð»¡Ða¯¡‰V¯s“¡Œa? ˆa·³·i Ð»¡Ðaµv¯s“¡”a.
+$$ ñÂ‘Âá­¡–A´ö¯s“¡”a. 
+$$ ñÂ‘ˆa·³¯¡Åaº‰ ÒA¶¥· ´a·¡—¡Ÿi ·³bÐa­A¶a 
+´a·¡—¡(ÂA”10ˆ) : ˆa·³ˆá¦Ði ÒA¶¥· ´a·¡—¡Ÿi ·³bÐa­A¶a 
+´a·¡—¡(ÂA”10ˆ) : •·Ñ¡ÒA ÒA¶¥ ¡w”eµA¬á ¬b¹AÐi ´a·¡—¡Ÿi ·³bÐa­A¶a
+´a·¡—¡(ÂA”10ˆ) : 
+Â‰b·¡ {v¯s“¡”a.
+$$ ñÂ‘
+ˆa·³ ÀáŸ¡ˆa {v¯s“¡”a.
+$$ ñÂ‘
+ˆa·³ ˆá¦ÀáŸ¡ˆa {v¯s“¡”a.
+$$ ñÂ‘
+•·Ñ¡ÒA ÒA¶¥ ¬b¹A ÀáŸ¡ˆa {v¯s“¡”a.
+$$ ñÂ‘
+ˆa·³ ¯¥À÷¸a ´a·¡—¡Ÿi Â‰bÐs“¡”a.
+
+ˆa·³¸a ´a·¡—¡Ÿi Â‰bÐs“¡”a.
+
+¸÷ i¡ ˆa·³ ¯¥À÷¸a ¡¡–Ÿi •·Ñ¡ÒA ÒA¶¥·a¡ —w¢¯¡Ç¡¯¡‰V¯s“¡Œa? $$ ñÂ‘
+
+$$·¡Ÿq($$´a·¡)“±·e ·¡ •·Ñ¡ÒA· ÒA¶¥·¡ ´a“³“¡”a.
+$$ ñÂ‘
+ÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍÔÍ
+ÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄ
+  $$·¡Ÿq($$´a·¡)“±A ´ia—aŸ³“¡”a
+ÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄ
+  ¶…µw¸a“±·¡ »¡‹q É·¯¥Ïa¡‹aœ‘·i ¯©
+  Ð—Ða‰¡ ·¶¯s“¡”a. ¸q¯¡ Ñ¡¯aËaˆa  ñ
+  Â´á ·¶·iˆõ·³“¡”a.  ¹¡‹q e ‹¡”aŸ¡
+  ¯¡¡e ¶…µw¸aˆa •©´aµ© ˆõ·³“¡”a.
+ÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄ
+
+ÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄ
+  $$·¡Ÿq($$´a·¡)“±A ´ia—aŸ³“¡”a
+ÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄ
+  ¶…µw¸a“±·¡ »¡‹q ¶A¦ µA—¡ÈáŸi  ¯©
+  Ð—Ða‰¡ ·¶¯s“¡”a. ¸q¯¡ Ñ¡¯aËaˆa  ñ
+  Â´á ·¶·iˆõ·³“¡”a.  ¹¡‹q e ‹¡”aŸ¡
+  ¯¡¡e ¶…µw¸aˆa •©´aµ© ˆõ·³“¡”a.
+ÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄÔÄ
+$$´a·¡“±A $$Â”a(KB)· ”a¶…œ··¡ ¬¡ º´á»³“¡”a.
+SM¡ww´á“e ¶…µw¸a e ³i® ·¶¯s“¡”a.
+·¡£¡ ¹¥¸Ða“e Ìa·©·³“¡”a.
+Ëb®¢…¸aa ‰·¤‚·e ´a·¡—¡µA ³a·©® ´ô¯s“¡”a.
+¯aÇaŸ³Ëa Ïa¡‹aœ‘· Ça‹¡ˆa á¢ Çs“¡”a. 
+$$ ñÂ‘
+¯aÇaŸ³Ëa Ïa¡‹aœ‘·i ¯©Ð—Ði ® ´ô¯s“¡”a. 
+$$ ñÂ‘
+
+¯aÇaŸ³Ëa Ïa¡‹aœ‘· ¯©Ð—·¡ §¡¸÷¬w¸â·a¡ ¹·ža–A´ö¯s“¡”a.
+$$ ñÂ‘
+[=10FÔ°Ô°Ô°Ô°Ô°Ô±Ô±Ô±Ô²Ô²Ô²Ô±Ô±Ô±Ô°Ô°Ô°Ô°Ô°
+[=13F       a·¡Ë¡ [=11FÑ¡¯aËa [=12F1.0 beta1.5
+[=10FÔ°Ô°Ô°Ô°Ô°Ô±Ô±Ô±Ô²Ô²Ô²Ô±Ô±Ô±Ô°Ô°Ô°Ô°Ô°
+
+[=9F                    ‹¡ÒB/¹A¸b : ‹±ˆw¡¡
+  
+ [=14FÁ¡¥¡¸a[=15F•¡ [=10F®ó‰A [=15FBBSŸi  e—i ® ·¶¯s“¡”a.
+ ÄñÏAÈá É·¯¥·i ¡y¤å Ð¥¥ ¬aœq, ˆe”eÐe
+ •¡¯a ¡ww´á ¡yˆ ´a“e ¸÷•¡· Á¡¥¡¸aœa
+ ¡e [=14F’Ša ®ó‰A[=15F BBSŸi  e—i ® ·¶•¡¢
+ Ðaµv¯s“¡”a. 
+ 
+ BBS [=10F¶…µwµA ‰ÅÐe ¡¡—e ˆõ·i SETUP Ïa¡
+ ‹aœ‘µA¬á ¡¡– ¬é¸÷[=15F Ði ® ·¶¯s“¡”a.
+
+ Ñe¸  a·¡Ë¡ Ñ¡¯aËa“e ‰­¢ ¤á¹e´ó –A‰¡
+ ·¶·a¡a, [=9Fµ©Ð[=15F ´e·a¡ [=10F1.0 ¸÷¯¢¤á¹e[=15F·i ¤i
+ ÎaÐi ‰ÒB·³“¡”a.
+
+ ·¡¹A [=14G[=0F a·¡Ë¡ Ñ¡¯aËa[=0G[=15F¡ [=13Fˆ¬÷·¶“e BBS[=15FŸi
+ ˆ¬é Ða­A¶a.
+
+  a·¡Ë¡ Ñ¡¯aËa· [=11FÏa¡‹aœ‘[=15F, [=11F¬é¡wÑÁ·©[=15FµA
+ ”Ðe ¡¡—e ¸á¸bŠ¥·e ¹A¸b¸a·¥ ¸áµA‰A ·¶
+ ·a£a¡ ¸á· Ðáœb ´ô·¡“e Ðq¦¡ ¤Í¡Ði
+ ® ´ô¯s“¡”a.
+
+ ¶…µwº— ¢…·¬aÐw·¡a ˆå·¬aÐw·e Ða·¡ÉI
+ [=13Fˆ¤i¸a Ðuœa·¥(glline)[=15F·a¡ Ða¯¡‹¡ ¤aœs
+ “¡”a.
+
+        É·¯¥ w ¹A¸b¸a ID
+                 Ða·¡ÉI : Capcom
+                 a¶Å± : Refined
+
+270
+
+  [ ‰A¯¡¢‰ ®¸÷ ]
+
+   1. ¹A¡¢ ®¸÷
+   2. ¥¥¢… ®¸÷
+   P. Âá­¡
+
+   ·³b> 
+
+  [‰A¯¡¢‰ ¹A¡¢ ®¸÷ ]
+
+Ñe¸¹A¡¢ : 
+  ¹A¡¢·¡ ®¸÷–A´ö¯s“¡”a.
+
+
+  [ ‰·»¡¬aÐw ®¸÷ ]
+
+   1. ¹A¡¢ ®¸÷
+   2. ¥¥¢… ®¸÷
+   P. Âá­¡
+
+   ·³b> 
+
+  [‰·»¡¬aÐw ¹A¡¢ ®¸÷ ]
+
+Ñe¸¹A¡¢ : 
+
+  [ ¸aža ®¸÷ ]
+
+   1. ¹A¡¢ ®¸÷
+   2. ¥¥¢… ®¸÷
+   P. Âá­¡
+
+   ·³b> 
+
+  [ ¸aža ¹A¡¢ ®¸÷ ]
+
+Ñe¸¹A¡¢ :  ˆi¢Ÿ¡Ÿi º…§¡Ða¯¡‰¡ $$ ñÂ‘
+ ** Â‰b ¹·ža **
+ ¤å·i ·ª·i Š¥Ðe·¡ ´ô¯s“¡”a.
+
+  [ PR( ‰A¯¡¢‰ Â‰b ) ‹¡“w ]
+  ¬a¶w¤ó(PR) : PR ¤åÑ¡1,...,¤åÑ¡10    PR ¤åÑ¡1-¤åÑ¡10    ","µÁ"-"· ¹¡Ðs ˆa“w
+ ‰­¢ Ða¯¡‰V¯s“¡Œa? 
+
+  [ Íe»¡ ®¸÷ ]
+
+   1. ¹A¡¢ ®¸÷
+   2. ¥¥¢… ®¸÷
+   P. Âá­¡
+
+   ·³b> 
+
+  [ Íe»¡ ¹A¡¢ ®¸÷ ]
+
+Ñe¸¹A¡¢ : ¤å Íe»¡“e ¹¥¸Ða»¡ ´g¯s“¡”a.
+Íe»¡ : 1.¸á¸w   2.¬b¹A  >>  Íe»¡¥¡‰ÅÐqµA ¸á¸wÐaµv¯s“¡”a.
+$$ ñÂ‘ Íe»¡Ÿi ¬b¹AÐaµv¯s“¡”a.
+$$ ñÂ‘­¥“±·e ¸å¸a¶Íe ‰Åe ¡A“AŸi ¬a¶wÐi ® ´ô¯s“¡”a.  å¸á ˆa·³ ¦Èá Ða­A¶a.
+­¥“±·e ¯¡ˆe·eÐ— ¡A“AŸi ¬a¶wÐi ® ´ô¯s“¡”a.  å¸á ˆa·³¦Èá Ða­A¶a.
+¸á¸w–E Íe»¡ˆa ´ô¯s“¡”a.
+¥¡… Íe»¡ˆa ´ô¯s“¡”a.
+         ´a·¡—¡     ·¡Ÿq  ®¯¥¬wÈ  ® ¯¥ ·©
+
+
+¤å Ñ¡  ®¯¥·¥     ¸b¬÷·©   Ça‹¡ ÑwÈ     ¹A                    ¡¢
+
+Ñ¡¯aËa· Á¡‹¡ÑÁŸi ¯¡¸bÐs“¡”a. ¸q¯¡ e ‹¡”aa º­A¶a
+Ñe¸ »¥Ð— :     
+Á¡‹¡ÑÁˆa {v¯s“¡”a.
+
+¬¡ ‹¡¢–E ¸ažaŸi ˆñ¬‚Ðs“¡”a.
+
+ˆñ¬‚·¡ {v¯s“¡”a.
+
+GO Ð—¬å»¡ ·³b (Ôú:‰­¢, P:‹a e) >> 
+¬¡¶… ¸ažaˆa ´ô¯s“¡”a.
+
+
+¶á· ÒA¶¥ —w‹s—i·i ¥¡‰¡ ÒA¶¥· ¬¡¶… —w‹s·i ·³bÐa­A¶a (®•¸a¡ ·³b)
+·³b : ¡¡—e •·Ñ¡ÒA ÒA¶¥· —w‹s·i ¤aŽ““¡”a.
+Ðe¤å —w‹s·i ¤aŽ¡e ·¡¸å •·Ñ¡ÒA —w‹s·a¡ ¥¢Š Ði® ´ô¯s“¡”a.
+‰­¢ ÐiŒa¶a? ¡¡—e •·Ñ¡ÒA ÒA¶¥· —w‹s·i ¤aŽ´ö¯s“¡”a.
+Âá­¡–A´ö¯s“¡”a.
+$$·¡Ÿq($$´a·¡)“±·e $$—w‹s·³“¡”a. $$ ñÂ‘
+·¡ •·Ñ¡ÒA“e §¡‰·ˆ¡ ¶…µwº—·¥ •·Ñ¡ÒA·³“¡”a.
+Ñe¸ —w¢–E ´a·¡—¡·³“¡”a.
+Ñe¸ —w¢–E º£¥—w¢¤åÑ¡·³“¡”a.
+Ëb®¢…¸aa ‰·¤‚·e ·¡ŸqµA ¬a¶wÐi ® ´ô¯s“¡”a.
+‘e ·¡Ò Â‰¬—¸a e Â‰·³ ˆa“wÐs“¡”a.
+‘e ·¡¸å Â‰¬—¸a e Â‰·³ ˆa“wÐs“¡”a.
+´a·¡—¡Ÿi ‰·ˆÐi ® ´ô·a£a¡ ¡A·©·i ¥¡‰ ® ´ô¯s“¡”a.
+313
+314
+315
+
+

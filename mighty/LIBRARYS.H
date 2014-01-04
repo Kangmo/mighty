@@ -1,0 +1,17 @@
+#include "hanbgi.h"
+#include "han240.h"
+#include "..\pcl\pcl4c.h"
+#include "spawno.h"
+#include "xmsif.hpp"
+#include <ctype.h>
+#include <dos.h>
+#include <stdio.h>
+#include <conio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <alloc.h>
+#include <io.h>
+#include <dir.h>
+#include <time.h>
+#include <process.h>
+#include <errno.h>
